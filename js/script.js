@@ -16,7 +16,7 @@ if (typeof mark == "number") {
   } else if (mark >= 33 && mark <= 39) {
     console.log("Your grade is D");
   } else {
-    console.log("You failed");
+    console.log("Apni fail korechen");
   }
 } else {
   console.log("Mark number hote hobe");
